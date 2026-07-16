@@ -1,14 +1,14 @@
 # MNIST-Digit-Classifier_CNN
 My first CNN model built with PyTorch for handwritten digit classification.
- 🧠 Handwritten Digit Classifier using CNN (PyTorch)
+  Handwritten Digit Classifier using CNN (PyTorch)
 
- 📌 Overview
+ Overview
 
 This project is my first Convolutional Neural Network (CNN) built using PyTorch.
 
 The model is trained on the MNIST handwritten digit dataset to recognize digits from 0–9.
 
-🚀 Features
+ Features
 
 - Built a CNN from scratch
 - Trained using PyTorch
