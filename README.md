@@ -96,8 +96,11 @@ Predicted Label: 2
 - Model Evaluation
 - Save & Load Model
 - Single Image Prediction
+- 
 
+## Sample Prediction
 
+![Prediction](images/prediction.png)
 
  Author
 
